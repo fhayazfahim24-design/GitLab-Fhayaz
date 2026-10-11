@@ -1,0 +1,1 @@
+the git staging area helps developers select and review changes before committing, making, version control easier
